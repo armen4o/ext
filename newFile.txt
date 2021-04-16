@@ -1,0 +1,3 @@
+Everything is working
+My program with file.
+Hello, world!
